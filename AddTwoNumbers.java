@@ -14,7 +14,6 @@ public class AddTwoNumbers2 {
         sc.close();
         sum = num1 + num2;
         System.out.println("Sum of these numbers: "+sum);
-          System.out.println("hello world: ");
     }
 }
 
